@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Medhani-Premathilaka
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Computer Science University of Ruhuna,Srilanka.
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
